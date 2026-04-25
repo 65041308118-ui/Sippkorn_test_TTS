@@ -1,2 +1,5 @@
 # Sippkorn_test_TTS
-โปรแกรมทดสอบ TTS ของ สิปปกร
+โปรดเตรียม Library
+
+ใช้ในการแปลง text เป็น .mp3 และ ทดสอบ
+pip install pygame gTTS
